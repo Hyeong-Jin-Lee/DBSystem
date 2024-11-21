@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     // 데이터베이스 연결 정보
     private static final String URL = "jdbc:mysql://192.168.56.101:4567/madang?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
-//    private static final String URL = "jdbc:mysql://localhost:3306/kakao?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
+//  private static final String URL = "jdbc:mysql://localhost:3306/kakao?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root";
     private static final String PASSWORD = "1234";
 
